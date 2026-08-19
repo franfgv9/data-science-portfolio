@@ -1,4 +1,4 @@
-# Data Science Portfolio by Francisco Gil Valverde.
+# Data Science Portfolio by Francisco Gil Valverde
 Academic and practical projects from UMU &amp; UC
 
 ### Data Science & Artificial Intelligence
