@@ -1,0 +1,4 @@
+Modelo,Tipo,Modelo seleccionado,MSE test,RMSE test,MAE test,MAPE test (%),Cobertura intervalo 95%
+Baseline,Extrapolación de curva,Baseline polinómico grado 1,57.56,7.587,5.974,5.091,
+SARIMA,Box-Jenkins,"SARIMA(3,1,2)x(1,1,1,12)",46.796,6.841,5.046,4.27,54.167
+TES,Exponential Smoothing,"TES-m(alpha=0.2, gamma=0.2, delta=0.3)",42.991,6.557,4.615,3.885,75.0
