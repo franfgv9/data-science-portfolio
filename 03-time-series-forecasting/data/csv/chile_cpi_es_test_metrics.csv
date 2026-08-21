@@ -1,2 +1,0 @@
-Model,Model_name,alpha,gamma,delta,mtype,MSE_test,RMSE_test,MAE_test,MAPE_test,Coverage_95_PI_test
-TES,"TES-m(alpha=0.2, gamma=0.2, delta=0.3)",0.2,0.2,0.3,m,42.99088798625362,6.556743702956035,4.614774731724993,3.8850222690371083,75.0
